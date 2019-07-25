@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\Users\Виктория\Documents\RAD Studio\Projects\Project1.dproj=D:\job\syzoom\Italy_Raffaele\SahysModConsole.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.992,=D:\job\syzoom\Italy_Raffaele\UDataTest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=D:\job\syzoom\Italy_Raffaele\UExtraUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,=D:\job\syzoom\Italy_Raffaele\UInputData.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,=D:\job\syzoom\Italy_Raffaele\UInitialCalc.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.309,=D:\job\syzoom\Italy_Raffaele\UDataMod.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,=D:\job\syzoom\Italy_Raffaele\UMainCalc.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,=D:\job\syzoom\Italy_Raffaele\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,D:\job\syzoom\Italy_Raffaele\Unit1.pas=D:\job\syzoom\Italy_Raffaele\UMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
